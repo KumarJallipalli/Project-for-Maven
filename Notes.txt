@@ -1,2 +1,3 @@
 This File is Created to Test the Git Conflicts
-Adding this line to generate pull conflict
+Adding this line to generate pull conflict --> From Local commit
+This is the Line which will generate the pull Conflict --> From Remote Commit
